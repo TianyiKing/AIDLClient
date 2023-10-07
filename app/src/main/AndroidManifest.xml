@@ -25,4 +25,9 @@
         </activity>
     </application>
 
+    <!--  配置服务端的包名-->
+    <queries>
+        <package android:name="cn.itoo.aidlserver" />
+    </queries>
+
 </manifest>
